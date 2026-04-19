@@ -1,3 +1,19 @@
+/*Step by step implementation procedure:
+ Create a new Dynamic Web Project:
+o Open Eclipse
+o File → New → Dynamic Web Project
+o Name it &quot;FactorialCalculatorDemo&quot;
+o Choose Apache Tomcat as the target runtime
+o Click Finish
+
+ Create the Servlet:
+o Right-click on src folder
+o New → Class
+o Name it &quot;FactorialServlet&quot;
+o Copy the Java code from the second artifact above
+o Save the file*/
+
+
 package com.factorial;
 
 import java.io.IOException;
@@ -40,3 +56,8 @@ public class FactorialServlet extends HttpServlet
         response.sendRedirect("index.html");
     }
 }
+/*3. Create the HTML file:
+
+o Right-click on WebContent folder
+o New → HTML File
+o Name it &quot;index.html&quot;*/
