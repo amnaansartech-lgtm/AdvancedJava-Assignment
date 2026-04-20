@@ -1,4 +1,6 @@
-/*Step by step implementation procedure:
+/*
+6a. Build a servlet program to find the factorial of a number using HTML with step by step procedure.
+Step by step implementation procedure:
  Create a new Dynamic Web Project:
 o Open Eclipse
 o File → New → Dynamic Web Project
