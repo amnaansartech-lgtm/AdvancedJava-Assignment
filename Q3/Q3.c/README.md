@@ -1,3 +1,6 @@
 Q3.c  String Exercise progams
 
 1.  CapitalizeWords o/p:
+https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/4df0696461746d2f096cc89bcebf5f0356161cdf/Q3/Q3.c/CapitalizeWords.png
+
+2. Truncate o/p:
