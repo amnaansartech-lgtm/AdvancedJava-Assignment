@@ -7,4 +7,7 @@ Q1.c   Linked List Programs
     https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/59180e0518ccba763a3eec90b8e7f83c7ed04b9c/Q1/Q1.c/p7_output.png
 
  3. p8 o/p:
+    https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/e308237ff926851aa208383b86ae1723cf14e6d2/Q1/Q1.c/p8_output.png
+
+ 4. p9 o/p:
     
