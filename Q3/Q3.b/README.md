@@ -9,4 +9,5 @@ https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/f431fea481076
 3.  ReverseString o/p:
 https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/6f0e70bfd7986397d440e723cb4f2ac823060550/Q3/Q3.b/ReverseString.png
 
-4.  
+4.  isPalindrome o/p:
+https://github.com/amnaansartech-lgtm/AdvancedJava-Assignment/blob/5abcd3918befa03fedf21bc4d346386b8ff6a855/Q3/Q3.b/isPalindrome.png
